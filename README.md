@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Aakash and I'm a Fullstak Engineer, from India</h2>
+<h2 align="left">Hi 👋! My name is Aakash and I'm a Fullstack Engineer, from India</h2>
 
 ###
 
